@@ -1,6 +1,6 @@
 # app.py
 # Streamlit POS Tag Visualization using HMM
-# Author: Bilal's refined version
+# Author: Bilal Malik
 
 import streamlit as st
 import joblib
